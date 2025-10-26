@@ -7,7 +7,7 @@ const Settings = () => {
       
       <main className="container mx-auto px-4 py-12">
         <div className="max-w-4xl mx-auto">
-          <div className="bg-mint/30 rounded-3xl p-16 text-center">
+          <div className="bg-white/40 backdrop-blur-sm rounded-3xl p-16 text-center shadow-sm border border-white/60">
             <div className="flex justify-center mb-6">
               <SettingsIcon className="w-16 h-16 text-muted-foreground" strokeWidth={1.5} />
             </div>
