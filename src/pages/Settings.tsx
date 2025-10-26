@@ -1,11 +1,9 @@
 import { Settings as SettingsIcon } from "lucide-react";
 import { Button } from "@/components/ui/button";
-import Header from "@/components/Header";
 
 const Settings = () => {
   return (
     <div className="min-h-screen bg-background">
-      <Header />
       
       <main className="container mx-auto px-4 py-12">
         <div className="max-w-4xl mx-auto">
